@@ -5,3 +5,6 @@
 
 # Примечание
 В импортах `App.tsx` можно менять JSON чтобы протестить
+
+# Ссылка на Vercel
+https://only-test-three.vercel.app/
